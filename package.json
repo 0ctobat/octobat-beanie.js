@@ -1,0 +1,28 @@
+{
+  "name": "octobat-beanie.js",
+  "version": "0.0.1",
+  "description": "octobat-beanie.js lib. Transforms a button or a link in a webpage to an Hosted-Beanie payment page",
+  "main": "dist/octobat-beanie.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0ctobat/octobat-beanie.js.git"
+  },
+  "keywords": [
+    "checkout",
+    "sca",
+    "psd2",
+    "tax",
+    "calculation",
+    "vat",
+    "vatmoss",
+    "octobat",
+    "stripe",
+    "gocardless"
+  ],
+  "author": "Octobat SAS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0ctobat/octobat-beanie.js/issues"
+  },
+  "homepage": "https://github.com/0ctobat/octobat-beanie.js#readme",
+}
