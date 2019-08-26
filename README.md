@@ -1,3 +1,3 @@
 == Octobat Beanie JS lib ==
-* https://www.octobat.com/
+* https://www.octobat.com/products/beanie
 * TODO...
