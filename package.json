@@ -1,6 +1,6 @@
 {
   "name": "octobat-beanie.js",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "octobat-beanie.js lib. Transforms a button or a link in a webpage to an Hosted-Beanie payment page",
   "main": "dist/octobat-beanie.min.js",
   "repository": {
