@@ -4,7 +4,7 @@ Beanie is a tool that makes you able to integrating Stripe easily with the [SCA 
 
 **You can see a demo of Beanie running in test mode on [the Octobat website](https://octobat.com/products/beanie).**
 
-**Check our roadmap on the Github project tab above or directly [here](https://github.com/0ctobat/octobat-beanie.js/projects/1).**
+**Check our roadmap on the Github project tab above :point_up: or directly [here](https://github.com/0ctobat/octobat-beanie.js/projects/1).**
 
 ## Overview
 
